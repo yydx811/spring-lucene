@@ -1,0 +1,3 @@
+lucene:
+  doc:
+    path: 'classpath:doc/book.csv'
